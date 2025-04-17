@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Best Tech Production ®™</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #111;
+      color: #f5f5f5;
+    }
+    header {
+      background-color: #000;
+      color: gold;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.5em;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    .services, .testimonials {
+      background-color: #white;
+      border-radius: 10px;
+      margin-bottom: 30px;
+    }
+    h2 {
+      color: #0ff;
+      border-bottom: 2px solid gold;
+      padding-bottom: 10px;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    ul li {
+      padding: 8px 0;
+      border-bottom: 1px solid #333;
+    }
+    footer {
+      background: #000;
+      color: #aaa;
+      text-align: center;
+      padding: 20px;
+    }
+    .contact a {
+      color: #0ff;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Best Tech Production ®™</h1>
+  <p>Empowering the Future Through Technology</p>
+  <p><em>Founded by *_~```_Okumu_```~_* </em></p>
+</header>
+
+<section>
+  <h2>About Us</h2>
+  <p>Best Tech Production is dedicated to shaping the digital future through innovation, training, and solutions. We empower youth, schools, and businesses by offering cutting-edge tech services.</p>
+</section>
+
+<section class="services">
+  <h2>What We Do</h2>
+  <ul>
+    <li>Custom Web & App Development</li>
+    <li>Tech Training for Schools & Students</li>
+    <li>Digital Media Production (video, audio, graphics)</li>
+    <li>IT Support & Consultancy</li>
+  </ul>
+</section>
+
+<section class="testimonials">
+  <h2>What People Say</h2>
+  <ul>
+    <li>“Amazing service — very professional and quick.”</li>
+    <li>“Thanks to Best Tech Production, our school is now fully digital!”</li>
+    <li>“The tech training changed my whole career.”</li>
+  </ul>
+</section>
+
+<section class="contact">
+  <h2>Contact Us</h2>
+  <p>Email: <a href="mailto:okumublessing@gmail.com">okumublessing@gmail.com</a></p>
+  <p>Phone: 0710206166</p>
+</section>
+
+<footer>
+  <p>&copy; 2025 Best Tech Production ®™ | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
